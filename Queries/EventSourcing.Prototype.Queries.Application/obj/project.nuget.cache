@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "70nPrB4+zofJjjAIqBKRzwQE6KI0F37I6bisGOWpIBy/MoUZ38VapcwjKV9WzMwjoCGRHc2iVV6M/sOCP9OQ2g==",
+  "success": true,
+  "projectFilePath": "C:\\git\\EventSourcing.Prototype\\Queries\\EventSourcing.Prototype.Queries.Application\\EventSourcing.Prototype.Queries.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rozturac\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

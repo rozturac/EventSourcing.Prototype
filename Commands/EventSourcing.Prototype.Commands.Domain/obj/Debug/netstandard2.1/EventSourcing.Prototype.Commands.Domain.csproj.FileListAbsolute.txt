@@ -1,0 +1,9 @@
+C:\git\EventSourcing.Prototype\EventSourcing.Prototype.Commands.Domain\bin\Debug\netstandard2.1\EventSourcing.Prototype.Commands.Domain.deps.json
+C:\git\EventSourcing.Prototype\EventSourcing.Prototype.Commands.Domain\bin\Debug\netstandard2.1\EventSourcing.Prototype.Commands.Domain.dll
+C:\git\EventSourcing.Prototype\EventSourcing.Prototype.Commands.Domain\bin\Debug\netstandard2.1\EventSourcing.Prototype.Commands.Domain.pdb
+C:\git\EventSourcing.Prototype\EventSourcing.Prototype.Commands.Domain\obj\Debug\netstandard2.1\EventSourcing.Prototype.Commands.Domain.csprojAssemblyReference.cache
+C:\git\EventSourcing.Prototype\EventSourcing.Prototype.Commands.Domain\obj\Debug\netstandard2.1\EventSourcing.Prototype.Commands.Domain.AssemblyInfoInputs.cache
+C:\git\EventSourcing.Prototype\EventSourcing.Prototype.Commands.Domain\obj\Debug\netstandard2.1\EventSourcing.Prototype.Commands.Domain.AssemblyInfo.cs
+C:\git\EventSourcing.Prototype\EventSourcing.Prototype.Commands.Domain\obj\Debug\netstandard2.1\EventSourcing.Prototype.Commands.Domain.csproj.CoreCompileInputs.cache
+C:\git\EventSourcing.Prototype\EventSourcing.Prototype.Commands.Domain\obj\Debug\netstandard2.1\EventSourcing.Prototype.Commands.Domain.dll
+C:\git\EventSourcing.Prototype\EventSourcing.Prototype.Commands.Domain\obj\Debug\netstandard2.1\EventSourcing.Prototype.Commands.Domain.pdb
